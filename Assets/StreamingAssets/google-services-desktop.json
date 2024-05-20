@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "37705435503",
+    "firebase_url": "https://lab9moviles-default-rtdb.firebaseio.com",
+    "project_id": "lab9moviles",
+    "storage_bucket": "lab9moviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37705435503:android:e564f7d5c5c3d79fbf809a",
+        "android_client_info": {
+          "package_name": "com.Brando.Lab9Moviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbp_2BIxtW_1O9JZMWNMfZYCdHR3hjr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

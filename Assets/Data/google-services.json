@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716648419817",
+    "project_id": "sesionphotoss10",
+    "storage_bucket": "sesionphotoss10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716648419817:android:efe58ae9ee3ee96d113b78",
+        "android_client_info": {
+          "package_name": "com.BetterToghether.MovilesS10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCET2UsA6Sp-TXLaXVK0HeYTRBPZ_GnLlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
